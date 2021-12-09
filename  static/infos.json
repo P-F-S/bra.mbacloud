@@ -7,8 +7,8 @@
          "music": [
              {"name":"Starway to heaven", "estilo": "Rock"}
          ]
-     },
-     {
+    },
+    {
         "integrante": 2,
         "estado": "SP",
         "idade" : 32,
