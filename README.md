@@ -1,2 +1,2 @@
 # MBA FIAP CLOUD
-Dinâmica da aula inaugural 
+Dinâmica da aula inaugural

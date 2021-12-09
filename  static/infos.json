@@ -1,0 +1,47 @@
+[
+{
+         "integrante": 1,
+         "estado": "SP",
+         "idade" : 48,
+         "pet" : "false",
+         "music": [
+             {"name":"Starway to heaven", "estilo": "Rock"}
+         ]
+     },
+     {
+        "integrante": 2,
+        "estado": "SP",
+        "idade" : 32,
+        "pet" : "true",
+        "music": [
+            {"name":"Cerol na mão", "estilo": "Funk"}
+        ]
+    },
+    {
+        "integrante": 3,
+        "estado": "SP",
+        "idade" : 52,
+        "pet" : "false",
+        "music": [
+            {"name":"Chuva de prata", "estilo": "MPB"}
+        ]
+    },
+    {
+        "integrante": 4,
+        "estado": "PR",
+        "idade" : 35,
+        "pet" : "true",
+        "music": [
+            {"name":"Numb", "estilo": "Rock"}
+        ]
+    },
+    {
+        "integrante": 5,
+        "estado": "BA",
+        "idade" : 31,
+        "pet" : "false",
+        "music": [
+            {"name":"Atrasadinha", "estilo": "Samba"}
+        ]
+    }
+]
